@@ -7,5 +7,5 @@
 Установка
 ------------
 1. 
-2. Скачиваем файлы: `git clone https://github.com/khomtali/netology-diploma.git`
+2. Скачиваем файлы: `git clone https://github.com/khomtali/netology-php-diploma.git`
 3. Настраиваем доступы к базе в файле `config.php`
